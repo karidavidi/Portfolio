@@ -23,11 +23,11 @@ Kari David is a passionate data analyst with experience in analyzing large datas
 
 - Description: Segmented customers based on their purchase behavior using clustering algorithms, leading to targeted marketing strategies.
 
-## Contact
+## Contact Me
 
-- Email: kari.david@example.com
-- Phone: 123-456-7890
-
+- Email: kari4david@gmail.com
+- Linkeden:https://www.linkedin.com/in/david-kari-5b6262193
+  
 ## Setup
 
 To view this portfolio website locally, follow these steps:
