@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Technical Skills
- Data Analysis, Data Visualization, SQL,Python, Excel,Data Cleaning
+ Data Analysis, Data Visualization, SQL, Python, Excel, Data Cleaning
 ## Education
 
 ## Work Experience
