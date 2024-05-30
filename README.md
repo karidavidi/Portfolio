@@ -1,4 +1,4 @@
-# Kari David - Data Analyst Portfolio
+# Data Analyst Portfolio
 
 
 This is the portfolio website for Kari David, a data analyst.
@@ -6,13 +6,18 @@ This is the portfolio website for Kari David, a data analyst.
 ## Table of Contents
 
 - [About](#about)
+-[Education](Education)
+-[Work Exprience](Work Exprience)
 - [Projects](#projects)
 - [Contact](#contact)
 - [Setup](#setup)
 
 ## About
+ I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
-Kari David is a passionate data analyst with experience in analyzing large datasets and extracting valuable insights. This portfolio showcases Kari's projects and contact information.
+##Education
+
+##Work Experience
 
 ## Projects
 
@@ -23,6 +28,10 @@ Kari David is a passionate data analyst with experience in analyzing large datas
 ### Project 2: Customer Segmentation
 
 - Description: Segmented customers based on their purchase behavior using clustering algorithms, leading to targeted marketing strategies.
+
+### Project 3:
+
+### Project 4:
 
 ## Contact Me
 
