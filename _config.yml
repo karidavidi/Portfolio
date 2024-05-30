@@ -2,6 +2,8 @@
 title: Kari David
 # Add more site-wide configuration here
 
+logo: /assets/img/headshot_circle.png
+
 # Theme settings
 theme: jekyll-theme-minimal
 
