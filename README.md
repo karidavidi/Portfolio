@@ -3,6 +3,7 @@
 I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
 ## Table of Contents
+- [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Projects](#projects)
@@ -10,14 +11,11 @@ I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives fro
 - [Setup](#setup)
 
 
+## Technical Skills
+
 ## Education
 
-
-
 ## Work Experience
-
-
-## Projects
 
 ### Project 1: Sales Forecasting
 
@@ -36,8 +34,3 @@ I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives fro
 - Email: kari4david@gmail.com
 - Linkeden:https://www.linkedin.com/in/david-kari-5b6262193
   
-## Setup
-
-To view this portfolio website locally, follow these steps:
-
-1. Clone this repository:
