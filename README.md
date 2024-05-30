@@ -1,16 +1,7 @@
 # Data Analyst
 
-I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
-
-## Table of Contents
-- [Technical Skills](#technical-skills)
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Contact](#contact)
-
 ## Technical Skills
-
+ Data Analysis, Data Visualization, SQL,Python, Excel,Data Cleaning
 ## Education
 
 ## Work Experience
