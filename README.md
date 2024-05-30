@@ -13,11 +13,13 @@ This is the portfolio website for Kari David, a data analyst.
 - [Setup](#setup)
 
 ## About
- I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
-##Education
+I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
-##Work Experience
+## Education
+
+## Work Experience
+
 
 ## Projects
 
