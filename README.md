@@ -8,8 +8,6 @@ I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives fro
 - [Work Experience](#work-experience)
 - [Projects](#projects)
 - [Contact](#contact)
-- [Setup](#setup)
-
 
 ## Technical Skills
 
