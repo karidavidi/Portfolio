@@ -2,15 +2,13 @@
 title: Kari David
 # Add more site-wide configuration here
 
-logo: /assets/img/headshot_circle.png
-
 # Theme settings
 theme: jekyll-theme-minimal
 
 # Custom settings
 author:
-  name: Kari David
+name: Kari David
 
 # Placeholder for image
-# Replace 'image.jpg' with the path to your image file
-image: /assets/images/image.jpg
+logo: /assets/img/headshot_circle.png
+show_download: true
