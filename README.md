@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analyst
 
 I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
