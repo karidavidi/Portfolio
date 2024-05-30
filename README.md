@@ -1,22 +1,18 @@
 # Data Analyst Portfolio
 
-
-This is the portfolio website for Kari David, a data analyst.
+I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
 ## Table of Contents
-
-- [About](#about)
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Projects](#projects)
 - [Contact](#contact)
 - [Setup](#setup)
 
-## About
-
-I'm Kari David, a seasoned Data Analyst with a flair for crafting narratives from raw data. My mission? To weave compelling stories that guide businesses towards informed decisions.
 
 ## Education
+
+
 
 ## Work Experience
 
