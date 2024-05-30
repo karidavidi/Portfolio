@@ -6,15 +6,10 @@ This is the portfolio website for Kari David, a data analyst.
 ## Table of Contents
 
 - [About](#about)
-
--[Education](Education)
-
--[Work Exprience](Work Exprience)
-
+- [Education](#education)
+- [Work Experience](#work-experience)
 - [Projects](#projects)
-
 - [Contact](#contact)
-
 - [Setup](#setup)
 
 ## About
