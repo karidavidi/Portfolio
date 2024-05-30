@@ -1,32 +1,5 @@
 # Kari David - Data Analyst Portfolio
 
-import hashlib
-import requests
-
-def update_gravatar_image(email, image_url):
-    # Generate MD5 hash of the email address
-    hash_email = hashlib.md5(email.strip().lower().encode()).hexdigest()
-    # Construct Gravatar URL
-    gravatar_url = f"https://www.gravatar.com/{hash_email}.json"
-    # Retrieve Gravatar user data
-    response = requests.get(gravatar_url)
-    if response.status_code == 200:
-        user_data = response.json()
-        # Update the Gravatar profile image
-        user_data['entry'][0]['photos'] = [{'value': image_url}]
-        # Send a POST request to update the profile image
-        update_response = requests.post(gravatar_url, json=user_data)
-        if update_response.status_code == 200:
-            print("Profile picture updated successfully!")
-        else:
-            print("Failed to update profile picture.")
-    else:
-        print("Failed to fetch Gravatar user data.")
-
-# Example usage
-gravatar_email = "your_email@example.com"
-new_profile_image_url = "URL_OF_YOUR_NEW_PROFILE_IMAGE"
-update_gravatar_image(gravatar_email, new_profile_image_url)
 
 This is the portfolio website for Kari David, a data analyst.
 
